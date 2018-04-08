@@ -15,3 +15,7 @@ As stated, the main purpose is to provide simple examples for Git training demos
 This is a simple fole for deployment anywhere.
 
 ## How To Contribute
+
+### Copyright
+
+2017 Pelle Uvebrant
