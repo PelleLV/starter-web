@@ -16,6 +16,8 @@ This is a simple fole for deployment anywhere.
 
 ## How To Contribute
 
+Please fork this repository and then isuue Pull Request for review.
+
 ### Copyright
 
 2017 Pelle Uvebrant
