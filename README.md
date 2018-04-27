@@ -20,4 +20,4 @@ Please fork this repository and then isuue Pull Request for review.
 
 ### Copyright
 
-2017 Pelle Uvebrant
+2017 Pelle Uvebrant. All rights reserved.
